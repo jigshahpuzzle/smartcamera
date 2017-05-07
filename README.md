@@ -2,7 +2,7 @@
 ![alt tag](https://github.com/jigshahpuzzle/smartcamera/blob/master/product.jpg)
 
 ## Goals
-There are 4 defining goals of the smart camera project:   
+There goals of the smart camera project are:   
 * Cameras should be hands-free (wearable). We often want to capture fleeting moments with a camera, and a wearable camera saves time that is otherwise spent fumbling to turn on and aim a traditional camera. 
 * Cameras should generate descriptive names for images. A picture of a waterfall named 'IMG_0679.jpg' makes it difficult to search for and show friends later; it should be automatically named 'waterfall.jpg'.
 * Cameras should store images on our favorite cloud storage providers (OneDrive, Box, etc.). Transferring files from a SD card is slow and risks data loss.
